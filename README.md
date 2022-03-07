@@ -2,8 +2,8 @@
   
 # HI! I'm SYL. SangYoonLee. 👋
 
-<img src="https://img.shields.io/badge/Main Blog-FF5722?style=flat&logo=blogger&logoColor=white">
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white">
+<a href="https://sylagape1231.tistory.com/"><img src="https://img.shields.io/badge/Main Blog-FF5722?style=flat&logo=blogger&logoColor=white"></a>
+<a href="https://velog.io/@sylagape1231"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"></a>
   
 </div>
 
