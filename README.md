@@ -1,6 +1,8 @@
 <div align=center>
   
 # HI! I'm SYL. SangYoonLee. 👋
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SangYoonLee&fontSize=50&descSize=30&rotate=5&animation=twinkling)
 
 ### My Blogs
 
