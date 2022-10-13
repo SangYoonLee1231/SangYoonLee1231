@@ -4,14 +4,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SangYoonLee&fontSize=50&descSize=30&rotate=5&animation=twinkling)
 
-<!--
-
-<a href="https://opgc.me/#/users/SangYoonLee1231" target="_blank"><img src="https://api.opgc.me/githubs/users/SangYoonLee1231/tag/?theme=basic" /></a>
-
-<br/>
-
--->
-
 ### My Blogs
 
 <a href="https://sylagape1231.tistory.com/"><img src="https://img.shields.io/badge/Main Blog-FF5722?style=flat&logo=blogger&logoColor=white"></a>
@@ -57,6 +49,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangYoonLee1231&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangYoonLee1231)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href="https://opgc.me/#/users/SangYoonLee1231" target="_blank"><img src="https://api.opgc.me/githubs/users/SangYoonLee1231/tag/?theme=basic" /></a>
+
+<br/>
   
 </div>
 
