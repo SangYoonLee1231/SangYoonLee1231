@@ -50,7 +50,7 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangYoonLee1231)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="https://opgc.me/#/users/SangYoonLee1231" target="_blank"><img src="https://api.opgc.me/githubs/users/SangYoonLee1231/tag/?theme=basic" /></a>
+<!-- <a href="https://opgc.me/#/users/SangYoonLee1231" target="_blank"><img src="https://api.opgc.me/githubs/users/SangYoonLee1231/tag/?theme=basic" /></a> -->
 
 <br/>
   
