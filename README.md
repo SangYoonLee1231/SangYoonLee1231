@@ -11,6 +11,8 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sylagape1231&slug=나는-왜-개발자가-되기로-했을까)](https://velog.io/@sylagape1231/나는-왜-개발자가-되기로-했을까)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sylagape1231&slug=주소창에-naver.com을-치면-일어나는-일을-쉽게-이해해보자)](https://velog.io/@sylagape1231/주소창에-naver.com을-치면-일어나는-일을-쉽게-이해해보자)
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sylagape1231&slug=프론트엔드-취준생을-위한-게시글자료-모음)](https://velog.io/@sylagape1231/프론트엔드-취준생을-위한-게시글자료-모음)
 
   
