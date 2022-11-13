@@ -1,28 +1,11 @@
 <div align=center>
   
-<!--# HI! I'm SYL. SangYoonLee. 👋-->
-  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SangYoonLee&fontSize=50&descSize=30&rotate=5&animation=twinkling)
 
-### My Blogs
-
-<a href="https://sylagape1231.tistory.com/"><img src="https://img.shields.io/badge/Main Blog-FF5722?style=flat&logo=blogger&logoColor=white"></a>
-<a href="https://velog.io/@sylagape1231"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"></a>  
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sylagape1231&slug=나는-왜-개발자가-되기로-했을까)](https://velog.io/@sylagape1231/나는-왜-개발자가-되기로-했을까)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sylagape1231&slug=주소창에-naver.com을-치면-일어나는-일을-쉽게-이해해보자)](https://velog.io/@sylagape1231/주소창에-naver.com을-치면-일어나는-일을-쉽게-이해해보자)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sylagape1231&slug=프론트엔드-취준생을-위한-게시글자료-모음)](https://velog.io/@sylagape1231/프론트엔드-취준생을-위한-게시글자료-모음)
-
-  
 </div>
-
-<br/>
 
 <div align=center>
 
-  
 ### Tech Stack
 
   Techs that I've used at least once
@@ -43,6 +26,23 @@
 </div>
 
 <br/><br/>
+
+<div align=center>
+
+### My Blogs
+
+<a href="https://sylagape1231.tistory.com/"><img src="https://img.shields.io/badge/Main Blog-FF5722?style=flat&logo=blogger&logoColor=white"></a>
+<a href="https://velog.io/@sylagape1231"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"></a>  
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sylagape1231&slug=나는-왜-개발자가-되기로-했을까)](https://velog.io/@sylagape1231/나는-왜-개발자가-되기로-했을까)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sylagape1231&slug=주소창에-naver.com을-치면-일어나는-일을-쉽게-이해해보자)](https://velog.io/@sylagape1231/주소창에-naver.com을-치면-일어나는-일을-쉽게-이해해보자)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sylagape1231&slug=프론트엔드-취준생을-위한-게시글자료-모음)](https://velog.io/@sylagape1231/프론트엔드-취준생을-위한-게시글자료-모음)
+
+</div>
+
+<br/>
 
 <div align=center>
   
