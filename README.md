@@ -48,7 +48,7 @@
   
 ### My Stats
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangYoonLee1231&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![SangYoonLee's github stats](https://github-readme-stats.vercel.app/api?username=SangYoonLee1231&show_icons=true&theme=vue)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangYoonLee1231)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -57,6 +57,8 @@
 <br/>
   
 </div>
+
+<br/>
 
 <div align=center>
 
