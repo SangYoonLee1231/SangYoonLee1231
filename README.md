@@ -5,8 +5,16 @@
 </div>
 
 <div align=center>
+  
+### 🙋‍♂️ Who am I?
+  
+<h5>천천히, 그러나 꾸준히 (Slow, But Steady) 성장하는 개발자</h5>
+<h5>창작 활동을 즐기며 다른 사람들에게 선한 영향력을 주는 개발자</h5>
+<h5>어떤 문제에 부딪히는 것을 두려워하지 않고, 이를 극복하며 자기 성장을 이루는 것을 즐기는 개발자.</h5>
+  
+<br/><br/>
 
-### Tech Stack
+### 🛠 Tech Stack
 
   Techs that I've used at least once
   
@@ -29,7 +37,7 @@
 
 <div align=center>
 
-### My Blogs
+### ✏ My Blogs
 
 <a href="https://sylagape1231.tistory.com/"><img src="https://img.shields.io/badge/Main Blog-FF5722?style=flat&logo=blogger&logoColor=white"></a>
 <a href="https://velog.io/@sylagape1231"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"></a>  
