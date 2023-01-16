@@ -11,7 +11,7 @@
 <h4>천천히, 그러나 꾸준히 (Slow, But Steady) 성장하는 개발자</h4>
 <h4>창작 활동을 즐기며 다른 사람들에게 선한 영향력을 주는 개발자</h4>
 <h4>문제에 부딪히는 것을 두려워하지 않고, 이를 극복하여 자기 성장을 이루는 것을 즐기는 개발자</h4>
-<h4><a href="https://www.notion.so/SangYoonLee-6c59b7079e644a8fa7a8e6c5ff5e07b9">🧾 My Resume (Notion)</a></h4>
+<!-- <h4><a href="https://www.notion.so/SangYoonLee-6c59b7079e644a8fa7a8e6c5ff5e07b9">🧾 My Resume (Notion)</a></h4> -->
   
 <br/><br/>
 
