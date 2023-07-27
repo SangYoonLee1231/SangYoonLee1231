@@ -47,7 +47,7 @@
 
 ### ✏ My Blogs
 
-<a href="https://sylagape1231.tistory.com/"><img src="https://img.shields.io/badge/Main Blog-FF5722?style=flat&logo=blogger&logoColor=white"></a>
+<a href="https://sylagape1231.tistory.com/"><img src="https://img.shields.io/badge/Main Tistory Blog-FF5722?style=flat&logo=blogger&logoColor=white"></a>
 <a href="https://velog.io/@sylagape1231"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"></a>  
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sylagape1231&slug=나는-왜-개발자가-되기로-했을까)](https://velog.io/@sylagape1231/나는-왜-개발자가-되기로-했을까)
