@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=SangYoonLee&fontSize=50&descSize=30&rotate=5&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=SangYoonLee&fontSize=60&descSize=30&rotate=5&animation=twinkling)
 
 </div>
 
