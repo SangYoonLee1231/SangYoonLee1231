@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SangYoonLee&fontSize=50&descSize=30&rotate=5&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=SangYoonLee&fontSize=50&descSize=30&rotate=5&animation=twinkling)
 
 </div>
 
@@ -8,12 +8,20 @@
   
 ### 🙋‍♂️ I Wanna Be...
   
-<h4>천천히, 그러나 꾸준히 (Slow, But Steady) 성장하는 개발자</h4>
-<h4>창작 활동을 즐기며 다른 사람들에게 선한 영향력을 주는 개발자</h4>
-<h4>문제에 부딪히는 것을 두려워하지 않고, 이를 극복하여 자기 성장을 이루는 것을 즐기는 개발자</h4>
+<h5>천천히, 그러나 꾸준히 (Slow, But Steady) 성장하는 개발자</h5>
+<h5>창작 활동을 즐기며 다른 사람들에게 선한 영향력을 주는 개발자</h5>
+<h5>문제에 부딪히는 것을 두려워하지 않고, 이를 극복하여 자기 성장을 이루는 것을 즐기는 개발자</h5>
 <!-- <h4><a href="https://www.notion.so/SangYoonLee-6c59b7079e644a8fa7a8e6c5ff5e07b9">🧾 My Resume (Notion)</a></h4> -->
   
-<br/><br/>
+<br/>
+
+### 💼 Activity
+
+<h5>멋쟁이사자처럼 11th (2023.3 ~ ) | Wecode 39th (2022.09 ~ 2022.12)</h5>
+<h5>멋쟁이사자처럼 중앙 해커톤 (2023.08.18 ~ 2023.08.19)</h5>
+<h5>경기 메타버스 해커톤 (2023.09.13 ~ 2023.09.15) | 결선 진출 (2023.10.18 ~ 2023.10.20)</h5>
+
+<br/>
 
 ### 🛠 Tech Stack
 
