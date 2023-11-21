@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=SangYoonLee&fontSize=60&descSize=30&rotate=5&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=SangYoonLee&fontSize=60&descSize=100&rotate=4&animation=twinkling)
 
 </div>
 
@@ -31,8 +31,6 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c++&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
-  
-<br/>
   
 <img src="https://img.shields.io/badge/Html-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
