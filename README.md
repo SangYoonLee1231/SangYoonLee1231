@@ -6,7 +6,7 @@
 
 <div align=center>
   
-### 🙋‍♂️ I Am ..
+### 🙋‍♂️ I Am
 
 <h4>✍🏻 글쓰기를 좋아하는 개발자</h4>
 <h4>🌱 천천히, 그러나 꾸준히 (Slow, But Steady) 성장하는 개발자</h4>
