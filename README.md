@@ -10,7 +10,7 @@
 
 <h4>✍🏻 글쓰기를 좋아하는 개발자</h4>
 <h4>🧩 창작 활동을 통해 선한 영향력 행사에 관심이 많은 개발자</h4>
-<h4>🌱 천천히, 그러나 꾸준히 (Slow, But Steady) 성장하기 위해 매일 노력하는 개발자</h4>
+<h4>🌱 천천히, 그러나 꾸준히 (Slow, But Steady) 성장하는 개발자</h4>
 <!-- <h4><a href="https://www.notion.so/SangYoonLee-6c59b7079e644a8fa7a8e6c5ff5e07b9">🧾 My Resume (Notion)</a></h4> -->
   
 <br/>
