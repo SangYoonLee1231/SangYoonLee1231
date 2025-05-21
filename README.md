@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/React-1550B6?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+<!--<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>-->
 <img src="https://img.shields.io/badge/Styled Components-d87093?style=flat&logo=styled-Components&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/SASS-cc6699?style=flat&logo=sass&logoColor=white">-->
   
